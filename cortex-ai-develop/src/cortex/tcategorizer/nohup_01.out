@@ -1,0 +1,702 @@
+CRITICAL:root:The maximum length is 70
+INFO:root:x_train: 34958, x_dev: 3885, x_test: 4316
+INFO:root:y_train: 34958, y_dev: 3885, y_test: 4316
+INFO:root:Accuracy on dev set: 0.16962676962676962
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-100 at step 100
+CRITICAL:root:Best accuracy 0.16962676962676962 at step 100
+INFO:root:Accuracy on dev set: 0.323037323037323
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-200 at step 200
+CRITICAL:root:Best accuracy 0.323037323037323 at step 200
+INFO:root:Accuracy on dev set: 0.38996138996138996
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-300 at step 300
+CRITICAL:root:Best accuracy 0.38996138996138996 at step 300
+INFO:root:Accuracy on dev set: 0.4594594594594595
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-400 at step 400
+CRITICAL:root:Best accuracy 0.4594594594594595 at step 400
+INFO:root:Accuracy on dev set: 0.5145431145431145
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-500 at step 500
+CRITICAL:root:Best accuracy 0.5145431145431145 at step 500
+INFO:root:Accuracy on dev set: 0.5194337194337194
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-600 at step 600
+CRITICAL:root:Best accuracy 0.5194337194337194 at step 600
+INFO:root:Accuracy on dev set: 0.5258687258687259
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-700 at step 700
+CRITICAL:root:Best accuracy 0.5258687258687259 at step 700
+INFO:root:Accuracy on dev set: 0.584041184041184
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-800 at step 800
+CRITICAL:root:Best accuracy 0.584041184041184 at step 800
+INFO:root:Accuracy on dev set: 0.5758043758043758
+INFO:root:Accuracy on dev set: 0.5724581724581724
+INFO:root:Accuracy on dev set: 0.5948519948519948
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-1100 at step 1100
+CRITICAL:root:Best accuracy 0.5948519948519948 at step 1100
+INFO:root:Accuracy on dev set: 0.6120978120978121
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-1200 at step 1200
+CRITICAL:root:Best accuracy 0.6120978120978121 at step 1200
+INFO:root:Accuracy on dev set: 0.6164736164736164
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-1300 at step 1300
+CRITICAL:root:Best accuracy 0.6164736164736164 at step 1300
+INFO:root:Accuracy on dev set: 0.6275418275418275
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-1400 at step 1400
+CRITICAL:root:Best accuracy 0.6275418275418275 at step 1400
+INFO:root:Accuracy on dev set: 0.6270270270270271
+INFO:root:Accuracy on dev set: 0.6231660231660232
+INFO:root:Accuracy on dev set: 0.6517374517374518
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-1700 at step 1700
+CRITICAL:root:Best accuracy 0.6517374517374518 at step 1700
+INFO:root:Accuracy on dev set: 0.6213642213642213
+INFO:root:Accuracy on dev set: 0.6471042471042471
+INFO:root:Accuracy on dev set: 0.6357786357786358
+INFO:root:Accuracy on dev set: 0.6473616473616474
+INFO:root:Accuracy on dev set: 0.6491634491634491
+INFO:root:Accuracy on dev set: 0.6483912483912484
+INFO:root:Accuracy on dev set: 0.6635778635778635
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-2400 at step 2400
+CRITICAL:root:Best accuracy 0.6635778635778635 at step 2400
+INFO:root:Accuracy on dev set: 0.6561132561132561
+INFO:root:Accuracy on dev set: 0.6661518661518662
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-2600 at step 2600
+CRITICAL:root:Best accuracy 0.6661518661518662 at step 2600
+INFO:root:Accuracy on dev set: 0.6581724581724582
+INFO:root:Accuracy on dev set: 0.6566280566280567
+INFO:root:Accuracy on dev set: 0.6597168597168597
+INFO:root:Accuracy on dev set: 0.6535392535392536
+INFO:root:Accuracy on dev set: 0.6555984555984556
+INFO:root:Accuracy on dev set: 0.6589446589446589
+INFO:root:Accuracy on dev set: 0.6640926640926641
+INFO:root:Accuracy on dev set: 0.6661518661518662
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-3400 at step 3400
+CRITICAL:root:Best accuracy 0.6661518661518662 at step 3400
+INFO:root:Accuracy on dev set: 0.6473616473616474
+INFO:root:Accuracy on dev set: 0.6612612612612613
+INFO:root:Accuracy on dev set: 0.6707850707850708
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-3700 at step 3700
+CRITICAL:root:Best accuracy 0.6707850707850708 at step 3700
+INFO:root:Accuracy on dev set: 0.6640926640926641
+INFO:root:Accuracy on dev set: 0.6643500643500644
+INFO:root:Accuracy on dev set: 0.6625482625482626
+INFO:root:Accuracy on dev set: 0.6705276705276705
+INFO:root:Accuracy on dev set: 0.6697554697554697
+INFO:root:Accuracy on dev set: 0.6682110682110682
+INFO:root:Accuracy on dev set: 0.668983268983269
+INFO:root:Accuracy on dev set: 0.6705276705276705
+INFO:root:Accuracy on dev set: 0.6664092664092665
+INFO:root:Accuracy on dev set: 0.661003861003861
+INFO:root:Accuracy on dev set: 0.6761904761904762
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-4800 at step 4800
+CRITICAL:root:Best accuracy 0.6761904761904762 at step 4800
+INFO:root:Accuracy on dev set: 0.6664092664092665
+INFO:root:Accuracy on dev set: 0.6676962676962677
+INFO:root:Accuracy on dev set: 0.6669240669240669
+INFO:root:Accuracy on dev set: 0.6643500643500644
+INFO:root:Accuracy on dev set: 0.6671814671814672
+INFO:root:Accuracy on dev set: 0.6728442728442728
+INFO:root:Accuracy on dev set: 0.6658944658944659
+INFO:root:Accuracy on dev set: 0.668983268983269
+INFO:root:Accuracy on dev set: 0.6731016731016731
+INFO:root:Accuracy on dev set: 0.6718146718146718
+INFO:root:Accuracy on dev set: 0.6684684684684684
+INFO:root:Accuracy on dev set: 0.6741312741312742
+INFO:root:Accuracy on dev set: 0.6712998712998713
+INFO:root:Accuracy on dev set: 0.6743886743886743
+INFO:root:Accuracy on dev set: 0.6761904761904762
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-6300 at step 6300
+CRITICAL:root:Best accuracy 0.6761904761904762 at step 6300
+INFO:root:Accuracy on dev set: 0.6759330759330759
+INFO:root:Accuracy on dev set: 0.6710424710424711
+INFO:root:Accuracy on dev set: 0.6682110682110682
+INFO:root:Accuracy on dev set: 0.6751608751608752
+INFO:root:Accuracy on dev set: 0.6785070785070785
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-6800 at step 6800
+CRITICAL:root:Best accuracy 0.6785070785070785 at step 6800
+INFO:root:Accuracy on dev set: 0.6736164736164736
+INFO:root:Accuracy on dev set: 0.6725868725868726
+INFO:root:Accuracy on dev set: 0.6756756756756757
+INFO:root:Accuracy on dev set: 0.6777348777348777
+INFO:root:Accuracy on dev set: 0.6710424710424711
+INFO:root:Accuracy on dev set: 0.6725868725868726
+INFO:root:Accuracy on dev set: 0.6761904761904762
+INFO:root:Accuracy on dev set: 0.6651222651222651
+INFO:root:Accuracy on dev set: 0.6774774774774774
+INFO:root:Accuracy on dev set: 0.6761904761904762
+INFO:root:Accuracy on dev set: 0.6723294723294724
+INFO:root:Accuracy on dev set: 0.6728442728442728
+INFO:root:Accuracy on dev set: 0.6736164736164736
+INFO:root:Accuracy on dev set: 0.6723294723294724
+INFO:root:Accuracy on dev set: 0.6664092664092665
+INFO:root:Accuracy on dev set: 0.6707850707850708
+INFO:root:Accuracy on dev set: 0.6692406692406693
+INFO:root:Accuracy on dev set: 0.6712998712998713
+INFO:root:Accuracy on dev set: 0.6682110682110682
+INFO:root:Accuracy on dev set: 0.6728442728442728
+INFO:root:Accuracy on dev set: 0.6723294723294724
+INFO:root:Accuracy on dev set: 0.6759330759330759
+INFO:root:Accuracy on dev set: 0.6676962676962677
+INFO:root:Accuracy on dev set: 0.6674388674388675
+INFO:root:Accuracy on dev set: 0.6718146718146718
+INFO:root:Accuracy on dev set: 0.6710424710424711
+INFO:root:Accuracy on dev set: 0.6707850707850708
+INFO:root:Accuracy on dev set: 0.6715572715572715
+INFO:root:Accuracy on dev set: 0.6749034749034749
+INFO:root:Accuracy on dev set: 0.6715572715572715
+INFO:root:Accuracy on dev set: 0.6718146718146718
+INFO:root:Accuracy on dev set: 0.6707850707850708
+INFO:root:Accuracy on dev set: 0.676962676962677
+INFO:root:Accuracy on dev set: 0.6774774774774774
+INFO:root:Accuracy on dev set: 0.6705276705276705
+INFO:root:Accuracy on dev set: 0.6764478764478764
+INFO:root:Accuracy on dev set: 0.6731016731016731
+INFO:root:Accuracy on dev set: 0.6754182754182754
+INFO:root:Accuracy on dev set: 0.6805662805662805
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-10700 at step 10700
+CRITICAL:root:Best accuracy 0.6805662805662805 at step 10700
+INFO:root:Accuracy on dev set: 0.6797940797940798
+INFO:root:Accuracy on dev set: 0.6702702702702703
+INFO:root:Accuracy on dev set: 0.6800514800514801
+INFO:root:Accuracy on dev set: 0.6782496782496783
+INFO:root:Accuracy on dev set: 0.6813384813384813
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-11200 at step 11200
+CRITICAL:root:Best accuracy 0.6813384813384813 at step 11200
+INFO:root:Accuracy on dev set: 0.6808236808236808
+INFO:root:Accuracy on dev set: 0.6705276705276705
+INFO:root:Accuracy on dev set: 0.679021879021879
+INFO:root:Accuracy on dev set: 0.6785070785070785
+INFO:root:Accuracy on dev set: 0.6759330759330759
+INFO:root:Accuracy on dev set: 0.677992277992278
+INFO:root:Accuracy on dev set: 0.6803088803088803
+INFO:root:Accuracy on dev set: 0.677992277992278
+INFO:root:Accuracy on dev set: 0.6743886743886743
+INFO:root:Accuracy on dev set: 0.6841698841698842
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-12200 at step 12200
+CRITICAL:root:Best accuracy 0.6841698841698842 at step 12200
+INFO:root:Accuracy on dev set: 0.6833976833976834
+INFO:root:Accuracy on dev set: 0.6800514800514801
+INFO:root:Accuracy on dev set: 0.6785070785070785
+INFO:root:Accuracy on dev set: 0.6754182754182754
+INFO:root:Accuracy on dev set: 0.6754182754182754
+INFO:root:Accuracy on dev set: 0.6805662805662805
+INFO:root:Accuracy on dev set: 0.6777348777348777
+INFO:root:Accuracy on dev set: 0.6785070785070785
+INFO:root:Accuracy on dev set: 0.679021879021879
+INFO:root:Accuracy on dev set: 0.6800514800514801
+INFO:root:Accuracy on dev set: 0.6749034749034749
+INFO:root:Accuracy on dev set: 0.6772200772200773
+INFO:root:Accuracy on dev set: 0.676962676962677
+INFO:root:Accuracy on dev set: 0.6800514800514801
+INFO:root:Accuracy on dev set: 0.6808236808236808
+INFO:root:Accuracy on dev set: 0.6800514800514801
+INFO:root:Accuracy on dev set: 0.677992277992278
+INFO:root:Accuracy on dev set: 0.6841698841698842
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-14000 at step 14000
+CRITICAL:root:Best accuracy 0.6841698841698842 at step 14000
+INFO:root:Accuracy on dev set: 0.6831402831402832
+INFO:root:Accuracy on dev set: 0.677992277992278
+INFO:root:Accuracy on dev set: 0.6826254826254826
+INFO:root:Accuracy on dev set: 0.677992277992278
+INFO:root:Accuracy on dev set: 0.6867438867438868
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-14500 at step 14500
+CRITICAL:root:Best accuracy 0.6867438867438868 at step 14500
+INFO:root:Accuracy on dev set: 0.6826254826254826
+INFO:root:Accuracy on dev set: 0.6800514800514801
+INFO:root:Accuracy on dev set: 0.6813384813384813
+INFO:root:Accuracy on dev set: 0.6785070785070785
+INFO:root:Accuracy on dev set: 0.6743886743886743
+INFO:root:Accuracy on dev set: 0.6774774774774774
+INFO:root:Accuracy on dev set: 0.6743886743886743
+INFO:root:Accuracy on dev set: 0.6797940797940798
+INFO:root:Accuracy on dev set: 0.6833976833976834
+INFO:root:Accuracy on dev set: 0.6831402831402832
+INFO:root:Accuracy on dev set: 0.6705276705276705
+INFO:root:Accuracy on dev set: 0.6810810810810811
+INFO:root:Accuracy on dev set: 0.6720720720720721
+INFO:root:Accuracy on dev set: 0.6808236808236808
+INFO:root:Accuracy on dev set: 0.6782496782496783
+INFO:root:Accuracy on dev set: 0.6774774774774774
+INFO:root:Accuracy on dev set: 0.6833976833976834
+INFO:root:Accuracy on dev set: 0.6831402831402832
+INFO:root:Accuracy on dev set: 0.6774774774774774
+INFO:root:Accuracy on dev set: 0.6810810810810811
+INFO:root:Accuracy on dev set: 0.6818532818532819
+INFO:root:Accuracy on dev set: 0.685971685971686
+INFO:root:Accuracy on dev set: 0.6864864864864865
+INFO:root:Accuracy on dev set: 0.6833976833976834
+INFO:root:Accuracy on dev set: 0.6782496782496783
+INFO:root:Accuracy on dev set: 0.6867438867438868
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-17100 at step 17100
+CRITICAL:root:Best accuracy 0.6867438867438868 at step 17100
+INFO:root:Accuracy on dev set: 0.6885456885456885
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-17200 at step 17200
+CRITICAL:root:Best accuracy 0.6885456885456885 at step 17200
+INFO:root:Accuracy on dev set: 0.6810810810810811
+INFO:root:Accuracy on dev set: 0.6833976833976834
+INFO:root:Accuracy on dev set: 0.6764478764478764
+INFO:root:Accuracy on dev set: 0.6800514800514801
+INFO:root:Accuracy on dev set: 0.6805662805662805
+INFO:root:Accuracy on dev set: 0.6828828828828829
+INFO:root:Accuracy on dev set: 0.676962676962677
+INFO:root:Accuracy on dev set: 0.684942084942085
+INFO:root:Accuracy on dev set: 0.6815958815958816
+INFO:root:Accuracy on dev set: 0.6810810810810811
+INFO:root:Accuracy on dev set: 0.6846846846846847
+INFO:root:Accuracy on dev set: 0.6864864864864865
+INFO:root:Accuracy on dev set: 0.6795366795366795
+INFO:root:Accuracy on dev set: 0.6844272844272844
+INFO:root:Accuracy on dev set: 0.6857142857142857
+INFO:root:Accuracy on dev set: 0.6792792792792792
+INFO:root:Accuracy on dev set: 0.6741312741312742
+INFO:root:Accuracy on dev set: 0.6841698841698842
+INFO:root:Accuracy on dev set: 0.6797940797940798
+INFO:root:Accuracy on dev set: 0.6851994851994851
+INFO:root:Accuracy on dev set: 0.6818532818532819
+INFO:root:Accuracy on dev set: 0.6803088803088803
+INFO:root:Accuracy on dev set: 0.684942084942085
+INFO:root:Accuracy on dev set: 0.6823680823680823
+INFO:root:Accuracy on dev set: 0.6854568854568854
+INFO:root:Accuracy on dev set: 0.6803088803088803
+INFO:root:Accuracy on dev set: 0.6877734877734878
+INFO:root:Accuracy on dev set: 0.6888030888030888
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-20000 at step 20000
+CRITICAL:root:Best accuracy 0.6888030888030888 at step 20000
+INFO:root:Accuracy on dev set: 0.685971685971686
+INFO:root:Accuracy on dev set: 0.6880308880308881
+INFO:root:Accuracy on dev set: 0.6828828828828829
+INFO:root:Accuracy on dev set: 0.6867438867438868
+INFO:root:Accuracy on dev set: 0.6821106821106822
+INFO:root:Accuracy on dev set: 0.6862290862290862
+INFO:root:Accuracy on dev set: 0.6851994851994851
+INFO:root:Accuracy on dev set: 0.687001287001287
+INFO:root:Accuracy on dev set: 0.6895752895752896
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-20900 at step 20900
+CRITICAL:root:Best accuracy 0.6895752895752896 at step 20900
+INFO:root:Accuracy on dev set: 0.6885456885456885
+INFO:root:Accuracy on dev set: 0.6862290862290862
+INFO:root:Accuracy on dev set: 0.684942084942085
+INFO:root:Accuracy on dev set: 0.6826254826254826
+INFO:root:Accuracy on dev set: 0.6839124839124839
+INFO:root:Accuracy on dev set: 0.6854568854568854
+INFO:root:Accuracy on dev set: 0.684942084942085
+INFO:root:Accuracy on dev set: 0.6826254826254826
+INFO:root:Accuracy on dev set: 0.6851994851994851
+INFO:root:Accuracy on dev set: 0.6833976833976834
+INFO:root:Accuracy on dev set: 0.6828828828828829
+INFO:root:Accuracy on dev set: 0.6857142857142857
+INFO:root:Accuracy on dev set: 0.6800514800514801
+INFO:root:Accuracy on dev set: 0.6851994851994851
+INFO:root:Accuracy on dev set: 0.6815958815958816
+INFO:root:Accuracy on dev set: 0.6839124839124839
+INFO:root:Accuracy on dev set: 0.6836550836550837
+INFO:root:Accuracy on dev set: 0.6815958815958816
+INFO:root:Accuracy on dev set: 0.6867438867438868
+INFO:root:Accuracy on dev set: 0.6854568854568854
+INFO:root:Accuracy on dev set: 0.6831402831402832
+INFO:root:Accuracy on dev set: 0.6877734877734878
+INFO:root:Accuracy on dev set: 0.6810810810810811
+INFO:root:Accuracy on dev set: 0.6833976833976834
+INFO:root:Accuracy on dev set: 0.6821106821106822
+INFO:root:Accuracy on dev set: 0.6828828828828829
+INFO:root:Accuracy on dev set: 0.6787644787644788
+INFO:root:Accuracy on dev set: 0.6821106821106822
+INFO:root:Accuracy on dev set: 0.6764478764478764
+INFO:root:Accuracy on dev set: 0.676962676962677
+INFO:root:Accuracy on dev set: 0.677992277992278
+INFO:root:Accuracy on dev set: 0.6846846846846847
+INFO:root:Accuracy on dev set: 0.6828828828828829
+INFO:root:Accuracy on dev set: 0.6867438867438868
+INFO:root:Accuracy on dev set: 0.6895752895752896
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:*******************************************************
+CRITICAL:root:Saved model ./checkpoints_1502219150/model-24400 at step 24400
+CRITICAL:root:Best accuracy 0.6895752895752896 at step 24400
+INFO:root:Accuracy on dev set: 0.685971685971686
+INFO:root:Accuracy on dev set: 0.6767052767052767
+INFO:root:Accuracy on dev set: 0.6772200772200773
+INFO:root:Accuracy on dev set: 0.6767052767052767
+INFO:root:Accuracy on dev set: 0.6810810810810811
+INFO:root:Accuracy on dev set: 0.6736164736164736
+INFO:root:Accuracy on dev set: 0.6787644787644788
+INFO:root:Accuracy on dev set: 0.6738738738738739
+INFO:root:Accuracy on dev set: 0.6772200772200773
+INFO:root:Accuracy on dev set: 0.6746460746460746
+INFO:root:Accuracy on dev set: 0.6761904761904762
+INFO:root:Accuracy on dev set: 0.6707850707850708
+INFO:root:Accuracy on dev set: 0.6761904761904762
+INFO:root:Accuracy on dev set: 0.6756756756756757
+INFO:root:Accuracy on dev set: 0.6759330759330759
+INFO:root:Accuracy on dev set: 0.6818532818532819
+INFO:root:Accuracy on dev set: 0.6823680823680823
+INFO:root:Accuracy on dev set: 0.6833976833976834
+INFO:root:Accuracy on dev set: 0.6831402831402832
+INFO:root:Accuracy on dev set: 0.679021879021879
+INFO:root:Accuracy on dev set: 0.6805662805662805
+INFO:root:Accuracy on dev set: 0.6800514800514801
+INFO:root:Accuracy on dev set: 0.6831402831402832
+INFO:root:Accuracy on dev set: 0.6805662805662805
+INFO:root:Accuracy on dev set: 0.6795366795366795
+INFO:root:Accuracy on dev set: 0.676962676962677
+INFO:root:Accuracy on dev set: 0.6862290862290862
+INFO:root:Accuracy on dev set: 0.684942084942085
+INFO:root:Accuracy on dev set: 0.6844272844272844
+INFO:root:Accuracy on dev set: 0.6864864864864865
+CRITICAL:root:Training is complete, testing the best model on x_test and y_test
+INFO:tensorflow:Restoring parameters from ./checkpoints_1502219150/model-24400
+INFO:tensorflow:Restoring parameters from ./checkpoints_1502219150/model-24400
+CRITICAL:root:Accuracy on test set: 0.6927710843373494
+CRITICAL:root:./checkpoints_1502219150/ has been removed

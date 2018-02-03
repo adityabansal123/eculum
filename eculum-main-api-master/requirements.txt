@@ -1,0 +1,15 @@
+flask
+flask-restful
+flask_mail
+flask_cors
+pymongo
+tweepy
+cerberus
+PyJWT
+python-instagram
+oauth2
+pyotp
+pandas
+firefly-python
+python-geoip
+python-twitter

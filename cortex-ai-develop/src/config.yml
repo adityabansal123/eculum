@@ -1,0 +1,12 @@
+version: 1.0
+token: "cortexai"
+functions:
+  predict:
+    path: "/predict/interest"
+    function: "lambda.predict_interest"
+  hashtag:
+    path: "/predict/hashtags"
+    function: "lambda.predict_hashtag"
+  keyword:
+    path: "/analyse/text"
+    function: "lambda.keyword_freq"

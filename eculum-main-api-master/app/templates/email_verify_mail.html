@@ -1,0 +1,56 @@
+<head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <style>
+  	body {
+  		background: #F9F9F9;
+  		padding:16px;
+  		font-size:17px;
+  		font-family: Roboto;
+  		font-weight: 300;
+  	}
+
+  	.divider {
+  		border-bottom: 1px outset #660;
+  	}
+
+  	.btn {
+  		background-color: #1976d2;
+  		color:#fff;
+  		margin:16px auto;
+  		padding:16px;
+  		text-decoration: none;
+  		box-shadow: 1px 1px 1px #eee;
+  		font-family: Sans;
+  		font-weight: 600;
+  	}
+
+  	.btn:hover {
+  		background-color: #1976a1;
+  	}
+  	.row {
+  		display: block;
+  		margin:50px auto;
+  		text-align: center;
+  	}
+  </style>
+	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans|Offside" rel="stylesheet">
+</head>
+<body>
+<h3>Welcome to Eculum.</h3>
+<p>Dear {{user}},</p>
+<p>Thank you for signing up on Eculum.com. You are almost ready to go. <br> Confirm your email and you are good to go.</p>
+<div class="row">
+<a class='btn' href="https://api.eculum.com/v1/verify/email/{{token}}">Verify Email</a>
+</div>
+<p>Regards,<br>
+Team Eculum.
+</p>
+
+<p>
+Copy and paste this url if button doesnot work https://eculum.com/api/v1/verify/email/{{token}} 
+</p>
+
+
+</body>

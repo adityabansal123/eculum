@@ -1,0 +1,14 @@
+numpy 
+pandas
+scipy
+sklearn
+nltk
+gensim
+seaborn
+matplotlib
+textblob
+requests
+bs4
+instafetch
+jupyter
+firefly-python

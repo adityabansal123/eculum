@@ -1,0 +1,10 @@
+
+Welcome to Eculum.
+
+Dear {{user}},
+Thank you for signing up on Eculum.com. You are almost ready to go.
+Confirm your email and you are good to go.
+
+https://api.eculum.com/v1/verify/email/{{token}}
+Regards,
+Team Eculum.

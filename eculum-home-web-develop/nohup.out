@@ -1,0 +1,9 @@
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Nov/2017 19:37:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2017 19:37:41] "GET /static/css/frame.css HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2017 19:37:41] "GET /static/css/main.css HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2017 19:37:42] "GET /static/logos/logo.png HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2017 19:37:43] "GET /static/icons/favicon-32x32.png HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2017 19:37:43] "GET /static/icons/favicon-16x16.png HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2017 19:37:43] "GET /static/icons/favicon.ico HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2017 19:37:47] "GET /site-map HTTP/1.1" 200 -

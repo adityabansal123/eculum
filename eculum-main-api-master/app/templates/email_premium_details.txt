@@ -1,0 +1,15 @@
+Dear Admin,
+
+A new premium request.
+
+User details:
+ First Name: {{data.first_name}}
+ Last Name: {{data.last_name}}
+ Registered Email: {{data.user_email}}
+ Contact Email: {{data.contact_email}}
+ Country: {{data.country}}
+ Twitter: {{data.screen_name}}
+ Date: {{data.date}} UTC
+
+Regards,
+Team Eculum.
